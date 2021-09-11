@@ -1,5 +1,5 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const mnemonic = "ice fuel make neglect flip input someone twin copy family session barrel";
+const mnemonic = "TBD";
 
 /**
  * Use this file to configure your truffle project. It's seeded with some
